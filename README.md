@@ -75,7 +75,7 @@
 
 它将是项目运行成功与否关键因素之一
 
-![web 项目路径](https://github.com/gpengDemo/Estore/blob/master/Estore-media/web%20%E9%A1%B9%E7%9B%AE%E8%B7%AF%E5%BE%84.png)
+![web 项目路径](https://github.com/gpengDemo/Estore/raw/master/Estore-media/web%20%E9%A1%B9%E7%9B%AE%E8%B7%AF%E5%BE%84.png)
 
 
 
@@ -89,9 +89,9 @@
 
 ##### 5. 添加 `tomcat` `jar` 包
 
-![添加 tomcat jar 包](https://github.com/gpengDemo/Estore/blob/master/Estore-media/%E6%B7%BB%E5%8A%A0%20tomcat%20jar%20%E5%8C%85.png)
+![添加 tomcat jar 包](https://github.com/gpengDemo/Estore/raw/master/Estore-media/%E6%B7%BB%E5%8A%A0%20tomcat%20jar%20%E5%8C%85.png)
 
-![添加 tomcat jar 包-2](https://github.com/gpengDemo/Estore/blob/master/Estore-media/%E6%B7%BB%E5%8A%A0%20tomcat%20jar%20%E5%8C%85-2.png)
+![添加 tomcat jar 包-2](https://github.com/gpengDemo/Estore/raw/master/Estore-media/%E6%B7%BB%E5%8A%A0%20tomcat%20jar%20%E5%8C%85-2.png)
 
 ##### 6 . 项目打包
 
@@ -101,11 +101,10 @@
 
 ##### 7.`tomcat` 添加`web`应用包
 
-![tomcat 添加web应用包](https://github.com/gpengDemo/Estore/blob/master/Estore-media/tomcat%20%E6%B7%BB%E5%8A%A0web%E5%BA%94%E7%94%A8%E5%8C%85.png)
+![tomcat 添加web应用包](https://github.com/gpengDemo/Estore/raw/master/Estore-media/tomcat%20%E6%B7%BB%E5%8A%A0web%E5%BA%94%E7%94%A8%E5%8C%85.png)
 
-![tomcat 添加web应用包-2](https://github.com/gpengDemo/Estore/blob/master/Estore-media/tomcat%20%E6%B7%BB%E5%8A%A0web%E5%BA%94%E7%94%A8%E5%8C%85-2.png)
+![tomcat 添加web应用包-2](https://github.com/gpengDemo/Estore/raw/master/Estore-media/tomcat%20%E6%B7%BB%E5%8A%A0web%E5%BA%94%E7%94%A8%E5%8C%85-2.png)
 
-![tomcat 添加web应用包-2](https://github.com/gpengDemo/Estore/raw/master/Estore-media/tomcat 添加web应用包-2.png)
 
 
 
